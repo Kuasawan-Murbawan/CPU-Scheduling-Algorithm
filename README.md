@@ -20,6 +20,6 @@
 ![image info](Tutorial.png)
 3. Download ZIP
 4. Unzip file
-5. Open "main.exe"
+5. Run "main.exe"
 6. Follow the instructions
 7. Enjoy
