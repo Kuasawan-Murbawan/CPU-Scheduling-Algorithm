@@ -15,7 +15,7 @@
 ## How to access
 
 1. Go to this link <br>
-https://github.com/Kuasawan-Murbawan/CPU-Scheduling-Comparison
+[https://github.com/Kuasawan-Murbawan/CPU-Scheduling-Comparison](https://github.com/Kuasawan-Murbawan/CPU-Scheduling-Algorithm)
 2. Click Code <br>
 ![image info](Tutorial.png)
 3. Download ZIP
