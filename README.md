@@ -17,7 +17,7 @@
 1. Go to this link <br>
 https://github.com/Kuasawan-Murbawan/CPU-Scheduling-Comparison
 2. Click Code
-![image info](img/Github.png)
+![image info]([img/Github.pn](https://github.com/Kuasawan-Murbawan/CPU-Scheduling-Algorithm/blob/main/Tutorial.png))
 3. Download ZIP
 4. Unzip file
 5. Open ".cpp"
